@@ -1,0 +1,14 @@
+```css
+body {
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+    background: #222;
+    color: #fff;
+}
+
+audio {
+    width: 300px;
+    margin-top: 20px;
+}
+```
